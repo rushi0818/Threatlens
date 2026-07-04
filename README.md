@@ -220,6 +220,3 @@ Always analyze malware samples in an isolated environment (VM).
 
 MIT License — free to use, modify, and distribute with attribution.
 
----
-
-*Built as part of HackNovaSec SOC Analyst Internship Program — Task 03*
