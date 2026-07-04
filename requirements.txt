@@ -1,0 +1,11 @@
+flask
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+pdfplumber
+python-docx
+pefile
+requests
+extract-msg
