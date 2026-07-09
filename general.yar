@@ -1,16 +1,3 @@
-/*
-general.yar
-===========
-Basic YARA rules for common malware detection
-Author: Ritesh Vijay Bavaskar
-
-How YARA works:
-- Each 'rule' defines patterns to look for in a file
-- If patterns match -> file is flagged
-- 'strings' section defines what to look for
-- 'condition' section defines when to trigger
-*/
-
 rule Ransomware_Generic
 {
     meta:
